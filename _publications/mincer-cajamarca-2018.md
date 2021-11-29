@@ -8,4 +8,5 @@ date: 2020-12-26
 paperurl: 'http://rosmeryasto.github.io/files/Ecuacion-de-Mincer-2018.pdf'
 ---
 [Download paper here](http://rosmeryasto.github.io/files/Ecuacion-de-Mincer-2018.pdf)
+--
 [Download do-file here](http://rosmeryasto.github.io/files/Ecuacion-Mincer-Cajamarca.do)
