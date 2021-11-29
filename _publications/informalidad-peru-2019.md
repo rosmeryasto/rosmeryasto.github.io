@@ -8,3 +8,4 @@ date: 2021-02-04
 paperurl: 'http://rosmeryasto.github.io/files/Informalidad-en-Perú-2019.pdf'
 ---
 [Download paper here](http://rosmeryasto.github.io/files/Informalidad-en-Perú-2019.pdf)
+[Download do-file here](http://rosmeryasto.github.io/files/Informalidad-en-Peru-2019.do)
