@@ -9,4 +9,4 @@ paperurl: 'http://rosmeryasto.github.io/files/Ecuacion-de-Mincer-2018.pdf'
 ---
 [Download paper here](http://rosmeryasto.github.io/files/Ecuacion-de-Mincer-2018.pdf)
 --
-[Download do-file here](http://rosmeryasto.github.io/files/Ecuacion-Mincer-Cajamarca.do)
+[Download do-file here](https://github.com/rosmeryasto/rosmeryasto.github.io/blob/master/files/Ecuacion-Mincer-Cajamarca.do)
