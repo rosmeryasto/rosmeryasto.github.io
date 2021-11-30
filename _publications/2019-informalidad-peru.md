@@ -7,6 +7,6 @@ excerpt: 'This research is the outcome of a group project for the course Activit
 date: 2021-02-11
 paperurl: 'http://rosmeryasto.github.io/files/Informalidad-en-Perú-2019.pdf'
 ---
-[Download paper here](http://rosmeryasto.github.io/files/Informalidad-en-Perú-2019.pdf)
+[Download paper here](https://github.com/rosmeryasto/Activities_in_economics_2/blob/main/Informalidad-en-Per%C3%BA-2019.pdf)
 
-[Download do-file here](https://github.com/rosmeryasto/rosmeryasto.github.io/blob/master/files/Informalidad-en-Peru-2019.do)
+[Download do-file here](https://github.com/rosmeryasto/Activities_in_economics_2/blob/main/Informalidad-en-Per%C3%BA.do)

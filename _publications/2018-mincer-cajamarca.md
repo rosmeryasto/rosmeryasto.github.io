@@ -7,6 +7,6 @@ excerpt: 'This paper is the outcome of a teamwork for the course Econometrics 1 
 date: 2021-01-04
 paperurl: 'http://rosmeryasto.github.io/files/Ecuacion-de-Mincer-2018.pdf'
 ---
-[Download paper here](http://rosmeryasto.github.io/files/Ecuacion-de-Mincer-2018.pdf)
+[Download paper here](https://github.com/rosmeryasto/Econometrics_1/blob/main/Ecuacion-de-Mincer-2018.pdf)
 
-[Download do-file here](https://github.com/rosmeryasto/rosmeryasto.github.io/blob/master/files/Ecuacion-Mincer-Cajamarca.do)
+[Download do-file here](https://github.com/rosmeryasto/Econometrics_1/blob/main/Ecuacion%20Mincer-Cajamarca.do)
