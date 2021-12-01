@@ -15,7 +15,8 @@ redirect_from:
 <p style='text-align: right;'> "If you do not program yourself, life will program you" 
 <p style='text-align: right;'> Les Brown
 
+---
 Volunteering
 ===========
 
-In 2020, I participated as a digital volunteer in the campaign "Por ellas y ellos, por la educación de los niños del Perú" of the NGO Crea+ Perú, which aimed to donate tablets for low-income children with the purpose of giving them access to virtual education due to the covid 19 pandemic.
+<p style='text-align: justify;'> In 2020, I participated as a digital volunteer in the campaign "Por ellas y ellos, por la educación de los niños del Perú" of the NGO Crea+ Perú, which aimed to donate tablets for low-income children with the purpose of giving them access to virtual education due to the covid 19 pandemic.
