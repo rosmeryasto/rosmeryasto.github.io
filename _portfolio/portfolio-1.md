@@ -1,7 +1,6 @@
 ---
 title: "Analyzing RCT data with Precision Adjustment"
-excerpt: <p style='text-align: justify;'>
- "In this R [Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Group5_lab3_R.ipynb), we analyze the Pennsylvania reemployment bonus experiment that were conducted to test the incentive effects of alternative compensation schemes for unemployment insurance."
+excerpt: <p style='text-align: justify;'> "In this R [Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Group5_lab3_R.ipynb), we analyze the Pennsylvania reemployment bonus experiment that were conducted to test the incentive effects of alternative compensation schemes for unemployment insurance."
 
 collection: portfolio
 ---
