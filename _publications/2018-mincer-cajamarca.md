@@ -1,5 +1,5 @@
 ---
-title: "Analysis of mincer equation for the Cajamarca region, 2018"
+title: "Analysis of mincer equation in Cajamarca, 2018"
 collection: publications
 permalink: /publication/2018-mincer-cajamarca
 
